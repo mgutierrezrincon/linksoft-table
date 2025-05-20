@@ -1,5 +1,5 @@
 {
-    "name": "linksoft/table",
+    "name": "linksoft-tech/table",
     "description": "Library to make tables and form quickly",
     "type": "library",
     "require": {
@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Linksoft\\Table\\": "src/"
+            "LinksoftTech\\Table\\": "src/"
         }
     },
     "authors": [
